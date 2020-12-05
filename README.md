@@ -3,8 +3,8 @@ This a backup/restore utility for linux. A single command backup the listed dire
 
 # Steps to run utility
 make <br />
-./backup --for backup directory. <br />
-./restore --for restore file. <br />
+./backup  (for backup directory.) <br />
+./restore (for restore file.) <br />
 
 # Demo of the Project
 https://youtu.be/Y8wgtwjuG2Q
