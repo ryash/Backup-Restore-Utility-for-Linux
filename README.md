@@ -8,3 +8,6 @@ make <br />
 
 # Demo of the Project
 https://youtu.be/Y8wgtwjuG2Q
+
+# Guide for Contributing:
+https://www.dataschool.io/how-to-contribute-on-github/
