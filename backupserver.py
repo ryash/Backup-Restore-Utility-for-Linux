@@ -1,7 +1,9 @@
 import socket
 import _thread
 import hashlib
+import os
 
+os.chdir("restoredir")
 serversock = socket.socket()
 host = "192.168.0.5"
 port = 9000
@@ -32,4 +34,4 @@ while True:
         file_to_write.close()
         print ('File received successfully')
 
-#serversock.close()
+serversock.close()

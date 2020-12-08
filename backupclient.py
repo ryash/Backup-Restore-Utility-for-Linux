@@ -9,7 +9,7 @@ port = 9000
 
 s.connect((host, port))
 #directory = os.listdir(path)
-List = open("/home/ryash/Downloads/out.txt").readlines()
+List = open("out.txt").readlines()
 List = map(lambda s: s.strip(), List)
 #print(list(List))
 
