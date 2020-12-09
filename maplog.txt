@@ -76,3 +76,93 @@
 /home/ryash/Documents/assi4/server.c
 2020-11-20 15:29:45.2814644590 +0530	/home/ryash/Documents/assi4/server1
 /home/ryash/Documents/assi4/server1
+2020-12-08 11:59:53.9896225430 +0530	/home/ryash/Documents/assi4
+/home/ryash/Documents/assi4
+2020-12-08 11:59:53.9896225430 +0530	/home/ryash/Documents/assi4/nasjnja
+/home/ryash/Documents/assi4/nasjnja
+2020-12-08 12:00:08.5529345570 +0530	/home/ryash/Documents/assi4/nasjnja
+/home/ryash/Documents/assi4/nasjnja
+2020-12-08 12:00:08.5529345570 +0530	/home/ryash/Documents/assi4/nasjnja/as
+/home/ryash/Documents/assi4/nasjnja/as
+2020-12-05 10:17:25.1068468710 +0530	/home/ryash/Desktop	4
+/home/ryash/Desktop	4
+2020-12-04 00:20:50.0838061430 +0530	/home/ryash/Desktop/a.out	24
+/home/ryash/Desktop/a.out	24
+2020-11-30 11:56:28.0512548530 +0530	/home/ryash/Desktop/out.txt	0
+/home/ryash/Desktop/out.txt	0
+2020-12-03 23:55:46.8587334770 +0530	/home/ryash/Desktop/sjhdjshjd	0
+/home/ryash/Desktop/sjhdjshjd	0
+2020-12-04 00:38:39.0503875640 +0530	/home/ryash/Desktop/-home-ryash-Desktop-myshell.cpp	8
+/home/ryash/Desktop/-home-ryash-Desktop-myshell.cpp	8
+2020-12-04 00:39:49.4623904820 +0530	/home/ryash/Desktop/restore.cpp	4
+/home/ryash/Desktop/restore.cpp	4
+2020-12-04 12:48:15.8730752240 +0530	/home/ryash/Desktop/-home-ryash-Desktop-ew	0
+/home/ryash/Desktop/-home-ryash-Desktop-ew	0
+2020-12-03 20:17:48.2194034610 +0530	/home/ryash/Desktop/client1.py	4
+/home/ryash/Desktop/client1.py	4
+2020-12-05 10:19:25.0961363620 +0530	/home/ryash/Desktop/-home-ryash-Desktop-grep	0
+/home/ryash/Desktop/-home-ryash-Desktop-grep	0
+2020-12-04 17:16:44.5463781230 +0530	/home/ryash/Desktop/-home-ryash-Desktop-backup.cpp	4
+/home/ryash/Desktop/-home-ryash-Desktop-backup.cpp	4
+2020-12-04 00:40:12.0184910040 +0530	/home/ryash/Desktop/restoreserver.py	4
+/home/ryash/Desktop/restoreserver.py	4
+2020-12-05 10:17:25.1788559310 +0530	/home/ryash/Desktop/restore	24
+/home/ryash/Desktop/restore	24
+2020-12-03 20:02:34.2445414320 +0530	/home/ryash/Desktop/hash.cpp	4
+/home/ryash/Desktop/hash.cpp	4
+2020-11-17 11:52:55.0038753130 +0530	/home/ryash/Desktop/myshell.cpp	8
+/home/ryash/Desktop/myshell.cpp	8
+2020-12-05 10:17:24.1387247640 +0530	/home/ryash/Desktop/backup	56
+/home/ryash/Desktop/backup	56
+2020-11-20 16:04:42.8157890000 +0530	/home/ryash/Desktop/grep	0
+/home/ryash/Desktop/grep	0
+2020-12-04 00:09:57.7931779580 +0530	/home/ryash/Desktop/ew	0
+/home/ryash/Desktop/ew	0
+2020-12-03 19:20:41.1479370000 +0530	/home/ryash/Desktop/hdfghdgfhd	0
+/home/ryash/Desktop/hdfghdgfhd	0
+2020-12-04 00:10:16.6325449270 +0530	/home/ryash/Desktop/xcxx	0
+/home/ryash/Desktop/xcxx	0
+2020-12-03 17:50:32.8155147070 +0530	/home/ryash/Desktop/maplog.txt	8
+/home/ryash/Desktop/maplog.txt	8
+2020-12-05 10:18:08.9520783030 +0530	/home/ryash/Desktop/backup.cpp	4
+/home/ryash/Desktop/backup.cpp	4
+2020-12-04 16:47:42.2903430480 +0530	/home/ryash/Desktop/makefile	4
+/home/ryash/Desktop/makefile	4
+2020-11-17 11:52:55.0038753130 +0530	/home/ryash/Desktop/Group3_Mid_Project_PPT_CS307.pdf	112
+/home/ryash/Desktop/Group3_Mid_Project_PPT_CS307.pdf	112
+2020-12-04 00:40:00.2264330460 +0530	/home/ryash/Desktop/restoreclient.py	4
+/home/ryash/Desktop/restoreclient.py	4
+2020-11-30 16:10:05.7462695400 +0530	/home/ryash/Desktop/server1.py	4
+/home/ryash/Desktop/server1.py	4
+2020-12-04 00:03:09.9481561790 +0530	/home/ryash/Desktop/client2.py	4
+/home/ryash/Desktop/client2.py	4
+2020-12-05 10:18:50.3925917290 +0530	/home/ryash/Desktop/client.py	4
+/home/ryash/Desktop/client.py	4
+2020-12-04 00:37:48.2707386500 +0530	/home/ryash/Desktop/server2.py	4
+/home/ryash/Desktop/server2.py	4
+2020-12-08 11:59:53.9896225430 +0530	/home/ryash/Documents/assi4	4
+/home/ryash/Documents/assi4	4
+2020-11-19 23:05:12.3102962690 +0530	/home/ryash/Documents/assi4/yash	4
+/home/ryash/Documents/assi4/yash	4
+2020-11-19 19:59:03.0864525520 +0530	/home/ryash/Documents/assi4/grep	0
+/home/ryash/Documents/assi4/grep	0
+2020-11-19 19:55:08.9469091140 +0530	/home/ryash/Documents/assi4/server	20
+/home/ryash/Documents/assi4/server	20
+2020-11-20 16:13:15.8180805110 +0530	/home/ryash/Documents/assi4/client	20
+/home/ryash/Documents/assi4/client	20
+2020-11-19 22:47:05.4442661550 +0530	/home/ryash/Documents/assi4/yash1	4
+/home/ryash/Documents/assi4/yash1	4
+2020-12-08 12:00:08.5529345570 +0530	/home/ryash/Documents/assi4/nasjnja	4
+/home/ryash/Documents/assi4/nasjnja	4
+2020-12-08 12:00:08.5529345570 +0530	/home/ryash/Documents/assi4/nasjnja/as	0
+/home/ryash/Documents/assi4/nasjnja/as	0
+2020-11-20 16:12:38.1333449340 +0530	/home/ryash/Documents/assi4/client.c	4
+/home/ryash/Documents/assi4/client.c	4
+2020-11-19 23:13:53.6083089680 +0530	/home/ryash/Documents/assi4/test.sh	4
+/home/ryash/Documents/assi4/test.sh	4
+2020-11-20 15:29:40.2413820700 +0530	/home/ryash/Documents/assi4/server1.c	8
+/home/ryash/Documents/assi4/server1.c	8
+2020-11-19 19:50:28.5632450000 +0530	/home/ryash/Documents/assi4/server.c	4
+/home/ryash/Documents/assi4/server.c	4
+2020-11-20 15:29:45.2814644590 +0530	/home/ryash/Documents/assi4/server1	20
+/home/ryash/Documents/assi4/server1	20

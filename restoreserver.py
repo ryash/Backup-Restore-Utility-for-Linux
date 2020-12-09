@@ -3,10 +3,11 @@ import os
 import _thread
 import time
 
+os.chdir("restoredir")
 
 while True:
-    HOST = '127.0.0.1'  # Standard loopback interface address (localhost)
-    PORT = 65432        # Port to listen on (non-privileged ports are > 1023)
+    HOST = '192.168.0.5'  # Standard loopback interface address (localhost)
+    PORT = 9001        # Port to listen on (non-privileged ports are > 1023)
     data1=[]
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((HOST, PORT))
@@ -24,8 +25,8 @@ while True:
 
 
     s = socket.socket()
-    host = "127.0.0.1"
-    port = 9000
+    host = "192.168.0.5"
+    port = 9002
     s.connect((host, port))
     data1[0]=data1[0].decode('utf-8')
 
@@ -41,7 +42,7 @@ while True:
     size = bin(size)[2:].zfill(16) 
     s.send(size.encode())
     s.send(filename.encode())
-    filename=files
+#    filename=files
     filesize=os.path.getsize(filename)
     filesize = bin(filesize)[2:].zfill(32) # encode filesize as 32 bit binary
     s.send(filesize.encode())

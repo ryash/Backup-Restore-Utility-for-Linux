@@ -1,9 +1,11 @@
 import socket
 import _thread
 import hashlib
+import os
+HOST = '192.168.0.5'  # The server's hostname or IP address
+PORT = 9001       # The port used by the server
 
-HOST = '127.0.0.1'  # The server's hostname or IP address
-PORT = 65432       # The port used by the server
+os.chdir("BackedupFiles")
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.connect((HOST, PORT))
@@ -14,8 +16,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 serversock = socket.socket()
-host = "127.0.0.1"
-port = 9000
+host = "192.168.0.5"
+port = 9002
 serversock.bind((host,port))
 filename = ""
 serversock.listen(10)

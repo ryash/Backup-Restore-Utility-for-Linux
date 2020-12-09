@@ -58,7 +58,6 @@ string exec(string command,map<string,string> &m) {
               m[s]=temp;
               result += temp;    
           }
-          
       }
    }
    pclose(pipe);
@@ -88,7 +87,7 @@ int main() {
    string ls;
    while(1){
       for(int i=0;i<backupdir.size();i++){
-         temp="find "+backupdir[i]+" "+ "-name '*' -printf '%TY-%Tm-%Td %TT %Tz\t%p\n'"; 
+         temp="find "+backupdir[i]+" "+ "-name '*' -printf '%TY-%Tm-%Td %TT %Tz\t%p\t%k\n'"; 
          ls = exec(temp,m);
          cout << ls;
          ofstream fout;

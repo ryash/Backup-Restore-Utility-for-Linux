@@ -1,4 +1,5 @@
-restoredir
+restoredir/**
+BackedupFiles/**
 maplog.txt
 out.txt
 
