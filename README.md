@@ -8,6 +8,7 @@ This a backup/restore utility for linux. A single command backup the listed dire
 4. Run ./backup 
 5. Make changes in any file (The changes will be detected and the changed files will be sent to the server).
 6. Run ./restore (enter the full path of the file to be restored).
+7. The config file contains the directory path which we want to backup.
 
 # Demo of the Project
 https://youtu.be/Y8wgtwjuG2Q
